@@ -1,0 +1,19 @@
+{
+  "name": "devlopment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darsh1021/WebDevlopment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darsh1021/WebDevlopment/issues"
+  },
+  "homepage": "https://github.com/darsh1021/WebDevlopment#readme",
+  "description": ""
+}
